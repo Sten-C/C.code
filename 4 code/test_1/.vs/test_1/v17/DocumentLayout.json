@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\github\\C.code\\4 code\\test_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B58816E0-15D6-47F1-950F-6F5B0287A06D}|test_1\\test_1.vcxproj|C:\\Coding\\github\\C.code\\4 code\\test_1\\test_1\\testing_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B58816E0-15D6-47F1-950F-6F5B0287A06D}|test_1\\test_1.vcxproj|solutionrelative:test_1\\testing_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testing_1.c",
+              "DocumentMoniker": "C:\\Coding\\github\\C.code\\4 code\\test_1\\test_1\\testing_1.c",
+              "RelativeDocumentMoniker": "test_1\\testing_1.c",
+              "ToolTip": "C:\\Coding\\github\\C.code\\4 code\\test_1\\test_1\\testing_1.c",
+              "RelativeToolTip": "test_1\\testing_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-06T07:59:24.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
